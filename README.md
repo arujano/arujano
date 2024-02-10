@@ -2,4 +2,4 @@
 
 # Hi! I'm Gabriel!
 
-I'm a high-school student learning software engineering and game development. I like working with low-level systems programming languages.
+I'm a high-school student learning software engineering and game development.
